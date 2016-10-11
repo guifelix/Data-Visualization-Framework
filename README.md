@@ -23,7 +23,7 @@ Features:
   
 * Slide Management
  * Flow management
-   ** Create, Read, Update and Delete Slides
+   *Create, Read, Update and Delete Slides
  * Chart selection menu
  * Style management
   
