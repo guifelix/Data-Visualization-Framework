@@ -1,6 +1,6 @@
 # Data-Visualization-Framework
 Personal project to create a framework where is possible to create data driven presentations.
-
+_____________________________________________________________________________________________
 To archieve that objective I'm using:
 
 D3.js - https://github.com/d3/d3
@@ -13,6 +13,8 @@ Strut or Builder4impress.js (builder for Impress.js) - https://github.com/tantam
 Cola.js - https://github.com/tgdwyer/WebCola 
 
 Noflo.js - https://github.com/noflo
+
+_____________________________________________________________________________________________
 
 The concept is to build a tool to create charts (with RAW and D3) and manage chart's flow and creation
 
