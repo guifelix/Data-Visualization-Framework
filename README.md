@@ -1,7 +1,7 @@
 # Data-Visualization-Framework
-Personal project to create a framework where is possible to create data driven presentations.
+## Personal project to create a framework where is possible to create data driven presentations.
 _____________________________________________________________________________________________
-To archieve that objective I'm using:
+### To archieve that objective I'm using:
 
 * D3.js - https://github.com/d3/d3
 * RAW.js - https://github.com/densitydesign/raw/ 
@@ -11,9 +11,9 @@ To archieve that objective I'm using:
 
 _____________________________________________________________________________________________
 
-The concept is to build a tool to create charts (with RAW and D3) and manage chart's flow and creation
+### The concept is to build a tool to create charts (with RAW and D3) and manage chart's flow and creation
 
-Features:
+#### Features:
 
 * Charts management
  * Grid of created charts
