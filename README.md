@@ -3,9 +3,9 @@ Personal project to create a framework where is possible to create data driven p
 _____________________________________________________________________________________________
 To archieve that objective I'm using:
 
-D3.js - https://github.com/d3/d3
+*D3.js - https://github.com/d3/d3
 
-RAW.js - https://github.com/densitydesign/raw/ 
+*RAW.js - https://github.com/densitydesign/raw/ 
 
 
 Strut or Builder4impress.js (builder for Impress.js) - https://github.com/tantaman/Strut, https://github.com/naugtur/builder4impress and https://github.com/impress/impress.js/ 
